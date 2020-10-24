@@ -45,7 +45,7 @@
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(800, 143);
+            this.panel1.Size = new System.Drawing.Size(800, 127);
             this.panel1.TabIndex = 0;
             // 
             // label2
@@ -74,7 +74,7 @@
             // 
             this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(239)))), ((int)(((byte)(197)))), ((int)(((byte)(27)))));
             this.panel2.Controls.Add(this.label3);
-            this.panel2.Location = new System.Drawing.Point(37, 120);
+            this.panel2.Location = new System.Drawing.Point(37, 102);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(233, 43);
             this.panel2.TabIndex = 1;
@@ -84,7 +84,7 @@
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Poppins", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(45)))));
-            this.label3.Location = new System.Drawing.Point(21, 10);
+            this.label3.Location = new System.Drawing.Point(20, 10);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(197, 28);
             this.label3.TabIndex = 0;
@@ -95,9 +95,10 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(68)))), ((int)(((byte)(84)))), ((int)(((byte)(133)))));
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(800, 584);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
+            this.MinimumSize = new System.Drawing.Size(816, 623);
             this.Name = "Dashboard";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "IT";
