@@ -1,0 +1,15 @@
+D:\Github\IT\bin\Debug\netcoreapp3.1\IT.exe
+D:\Github\IT\bin\Debug\netcoreapp3.1\IT.deps.json
+D:\Github\IT\bin\Debug\netcoreapp3.1\IT.runtimeconfig.json
+D:\Github\IT\bin\Debug\netcoreapp3.1\IT.runtimeconfig.dev.json
+D:\Github\IT\bin\Debug\netcoreapp3.1\IT.dll
+D:\Github\IT\bin\Debug\netcoreapp3.1\IT.pdb
+D:\Github\IT\obj\Debug\netcoreapp3.1\IT.csprojAssemblyReference.cache
+D:\Github\IT\obj\Debug\netcoreapp3.1\IT.Form1.resources
+D:\Github\IT\obj\Debug\netcoreapp3.1\IT.csproj.GenerateResource.cache
+D:\Github\IT\obj\Debug\netcoreapp3.1\IT.AssemblyInfoInputs.cache
+D:\Github\IT\obj\Debug\netcoreapp3.1\IT.AssemblyInfo.cs
+D:\Github\IT\obj\Debug\netcoreapp3.1\IT.csproj.CoreCompileInputs.cache
+D:\Github\IT\obj\Debug\netcoreapp3.1\IT.dll
+D:\Github\IT\obj\Debug\netcoreapp3.1\IT.pdb
+D:\Github\IT\obj\Debug\netcoreapp3.1\IT.genruntimeconfig.cache
